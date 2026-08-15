@@ -62,7 +62,7 @@ Project File
 
 The complete analysis is available in:
 
-"PRODIGY_DS_02_Titanic_EDA.ipynb"
+"PRODIGY_DS_02.ipynb"
 
 Author
 
